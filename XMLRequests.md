@@ -28,3 +28,9 @@ This is a table that documents the XML Requests without Attributes.
 |&nbsp; &nbsp; Slot2 |  The player's slot in inventory. | String | | Optional |
 |&nbsp; &nbsp; Slot3 |  The player's slot in inventory. | String | | Optional |
 |&nbsp; &nbsp; Slot4 |  The player's sslot in inventory. | String | | Optional |
+
+#Links to the other tables
+
+[JSON Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONResponse.md)
+[JSON Requests](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONRequests.md)
+[XML Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLResponse.md)

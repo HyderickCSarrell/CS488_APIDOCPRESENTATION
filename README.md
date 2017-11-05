@@ -27,6 +27,9 @@ This is an ordered list:
 15. Wednesday 
 4. Thursday
 
-This is a [a link to the JSON.md file.]()
+#Links to the other tables
 
-This is a [a link to the XML.md file.]()
+[JSON Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONResponse.md)
+[JSON Requests](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONRequests.md)
+[XML Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLResponse.md)
+[XML Request](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLRequests.md)

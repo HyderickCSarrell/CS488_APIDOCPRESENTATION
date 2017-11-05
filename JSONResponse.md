@@ -26,3 +26,9 @@ This is a table that documents the JSON Response.
 |&nbsp; &nbsp; Slot2 |  The player's slot in inventory. | String | |
 |&nbsp; &nbsp; Slot3 |  The player's slot in inventory. | String | |
 |&nbsp; &nbsp; Slot4 |  The player's sslot in inventory. | String | |
+
+#Links to the other tables
+
+[JSON Requests](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONRequests.md)
+[XML Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLResponse.md)
+[XML Request](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLRequests.md)

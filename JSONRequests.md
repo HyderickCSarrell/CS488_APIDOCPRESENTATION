@@ -26,3 +26,10 @@ This is a table that documents the JSON Required.
 |&nbsp; &nbsp; Slot2 |  The player's slot in inventory. | String | | Optional |
 |&nbsp; &nbsp; Slot3 |  The player's slot in inventory. | String | | Optional |
 |&nbsp; &nbsp; Slot4 |  The player's sslot in inventory. | String | | Optional |
+
+
+#Links to the other tables
+
+[JSON Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONResponse.md)
+[XML Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLResponse.md)
+[XML Request](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLRequests.md)

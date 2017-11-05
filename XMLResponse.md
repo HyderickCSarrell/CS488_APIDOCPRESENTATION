@@ -28,3 +28,9 @@ This is a table that documents the XML Response with Attrubutes.
 | | Slot2 | The player's slot in inventory. | String | |
 | | Slot3 | The player's slot in inventory. | String | |
 | | Slot4 |  The player's sslot in inventory. | String | |
+
+#Links to the other tables
+
+[JSON Response](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONResponse.md)
+[JSON Requests](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/JSONRequests.md)
+[XML Request](https://github.com/HyderickCSarrell/CS488_APIDOCPRESENTATION/blob/master/XMLRequests.md)
