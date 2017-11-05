@@ -5,7 +5,7 @@ This is a table that documents the JSON Response.
 | Element | Description | Type | Notes |
 | ------- | ----------- | ---- | ----- |
 | Player | Holds the name of the Player. | String | |
-|	Stats | The player's stats. | Object | |
+| &nbsp; Stats | The player's stats. | Object | |
 |		Attack |  The player's attack base. | Integer | |
 |		Speed |  The player's speed base. | Integer | |
 |		Defense |  The player's defense base. | Integer | |
