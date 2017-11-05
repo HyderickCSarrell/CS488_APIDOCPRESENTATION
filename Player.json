@@ -1,0 +1,35 @@
+{
+	"Player": {
+		"Stats": {
+			"Attack": 22,
+			"Speed": 13,
+			"Defense": 45,
+			"Evasion": 10
+		},
+		"OnHand": [
+			{
+				"Weapons": {
+					"RightArm": "Sword",
+					"LeftArm": "Shield",
+					"Ranged": "CrossBow"
+				}
+			},
+			{
+				"Armor": {
+					"Head": "Helm",
+					"Body": "PlateArmor",
+					"LeftArm": "LeatherGlove",
+					"RightArm": "IronGlove",
+					"Legs": "WetAndSlippery"
+				}
+			}
+		],
+		"Inventory": {
+			"Slot1": "HealingPotion",
+			"Slot2": "Bow",
+			"Slot3": "Food",
+			"Slot4": "DamagePotion"
+		}
+		
+	}
+}

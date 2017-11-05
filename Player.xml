@@ -1,0 +1,30 @@
+<?xml version= "1.0" encoding = "UTF-8">
+
+<Player>
+	<Stats>
+		<Attack 22 />
+		<Speed 13 />
+		<Defense 45 />
+		<Evasion 10 />
+	</Stats>
+	<OnHand>
+		<Weapons>
+			<RightArm Sword />
+			<LeftArm Shield />
+			<Ranged Crossbow />
+		</Weapons>
+		<Armor>
+			<Head Helm />
+			<Body PlateArmor />
+			<LeftArm LeatherArm />
+			<RightArm IronGlove />
+			<Legs WetAndSlippery />
+		</Armor>
+	</OnHand>
+	<Inventory>
+		<Slot1 HealingPotion />
+		<Slot2 Bow />
+		<Slot3 Food />
+		<Slot4 DamageP />
+	</Inventory>
+</Player>
